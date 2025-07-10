@@ -44,6 +44,12 @@ Applied a simple Linear Regression model using selected features.
 Split data into training and testing sets.
 Evaluated model performance using metrics like R² and RMSE.
 
+# Results
+
+- The linear regression model achieved R² = 0.62 on test data.
+- Highest house values are located near the coast (e.g. '<1H OCEAN').
+
+
 # Requirements:
 
 Python 3.x
